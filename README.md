@@ -1,2 +1,2 @@
-# music-player-in-java
-application console pour la gestion de la music (lecture, pause, rejouer, catalogue, suppression, music suivante ...) 
+# music-app-in-java
+music application (play, pause, replay, create playliste , delete, favorite musics,... ) 
