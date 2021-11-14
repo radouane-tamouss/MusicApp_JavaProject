@@ -67,9 +67,5 @@ public class PlayMusic{
         sourceLine.close();
     }
 
-//    public static void main(String[] args) {
-//        PlayMusic sound = new PlayMusic();
-//        sound.playSound("mozart.wav");
-//    }
 
 }
